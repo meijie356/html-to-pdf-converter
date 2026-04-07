@@ -1,0 +1,5 @@
+{
+  "name": "HTML to PDF Converter",
+  "description": "A simple client-side tool to convert LLM-generated HTML files into PDF documents with customizable page sizes and margins.",
+  "requestFramePermissions": []
+}
